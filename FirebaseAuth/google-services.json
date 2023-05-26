@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "88596693924",
+    "project_id": "ru-mirea-rudenok-lesson7-15680",
+    "storage_bucket": "ru-mirea-rudenok-lesson7-15680.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88596693924:android:f534bc3094131c5c1c7731",
+        "android_client_info": {
+          "package_name": "ru.mirea.rudenok.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB02dUOoc5CGHO0kgdY4b7bFWHDgQNmaHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88596693924:android:18a488fcb3bc80441c7731",
+        "android_client_info": {
+          "package_name": "ru.mirea.rudenok.practice7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB02dUOoc5CGHO0kgdY4b7bFWHDgQNmaHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
